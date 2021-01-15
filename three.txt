@@ -1,0 +1,1 @@
+I have removed all git command and will enlist them on another repository.
