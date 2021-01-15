@@ -1,1 +1,2 @@
-First text file of repository
+First text file of the repository
+I have made some changes of this file.
