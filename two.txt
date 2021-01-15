@@ -1,0 +1,2 @@
+This is the 2nd file of the repository.
+I am learning git and it is awesome.
