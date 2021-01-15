@@ -1,0 +1,5 @@
+I have enlisted some git commands:
+>> git clone
+>> git status
+>> git add <filename>/.
+>> git commit -m "Commit Message"
